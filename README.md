@@ -4,18 +4,6 @@ This project is a full-stack to-do list application built using the MERN stack (
 
 # live link : https://todo-kaushalam-1.onrender.com
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [API Endpoints](#api-endpoints)
-- [Usage](#usage)
-- [Contributing](#contributing)
-
-
 ---
 
 ## Features
@@ -115,11 +103,3 @@ JWT_SECRET=thisisasecretkey
 3. Commit changes
 4. Push to the branch
 5. Create a pull request
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-This README provides a structured overview of the project, setup instructions, and relevant information about the API endpoints and usage.
