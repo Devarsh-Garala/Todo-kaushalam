@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+  background-color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* customize scroll bar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #6B7280;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #4B5563;
+}
+
+.active,
+.logout {
+  color: #ffffff;
+  background-color: #FCD34D;
+  font-weight: bolder;
+  padding: 5px 10px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
+.addTask {
+  height: 10vh;
+  background-color: transparent;
+  padding: 10px;
+}
+
+.outlet {
+  height: 65vh;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  padding: 1rem;
+  overflow: auto;
+}
+
+.indicator {
+  display: flex;
+  align-items: center;
+  height: 10vh;
+  margin: auto 10px;
+}
