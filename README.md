@@ -12,7 +12,7 @@ This project is a full-stack to-do list application built using the MERN stack (
 - [API Endpoints](#api-endpoints)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
